@@ -67,9 +67,3 @@ DAOFA Raihana
 LAURET Andy
 
 
-## Remarques
-
-Projet réalisé dans un cadre pédagogique.
-
-Certaines améliorations peuvent encore être ajoutées afin d’optimiser l’application et l’expérience utilisateur.
- 
